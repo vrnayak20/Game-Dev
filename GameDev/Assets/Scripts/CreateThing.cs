@@ -10,6 +10,7 @@ public class CreateThing : MonoBehaviour
     void Start()
     {
         Debug.Log("no");
+        Debug.Log("Hello");
     }
 
     // Update is called once per frame
